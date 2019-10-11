@@ -28,4 +28,4 @@ fs.readdir("./commands/", (err, files) => {
   });
 });
   
-client.login('NTA5NzkyNTQzNjMwODE5MzQ4.XaDcgA.WS0XnOhPA7p2jC-M4WGKe6WGZP8');
+client.login('NTA5NzkyNTQzNjMwODE5MzQ4.XaDdOQ.6mc1poq5cHdUy7UcQSs60-89E-g');
