@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const Enmap = require("enmap");
 const fs = require("fs");
-const token = /*process.env.token*/'NTA5NzkyNTQzNjMwODE5MzQ4.XaDhPQ.UbY1iOTaRE426Wn1EcjuEhBRaPs';
+const token = /*process.env.token*/'NTA5NzkyNTQzNjMwODE5MzQ4.XaDj7g.FS5kjB0y-exqi7Zp7loYcjMRIkE';
 //var mysql = require('mysql');
 /*var db_handle = mysql.createConnection({
     host     : 'localhost',
